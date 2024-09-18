@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../web design"
+		},
+		{
+			"path": "../../youtube"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bingo"
+	}
+}
